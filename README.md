@@ -1,5 +1,5 @@
 # TITLE
-    ai-case-study
+    AI-case-study
 ## Overview and Origin
 
 * Name of company
@@ -9,7 +9,8 @@ Google
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-identifying skin, hair and nail conditions.
+
+Identifying skin, hair and nail conditions.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -25,11 +26,11 @@ DermAssist use photo of the user's skin/hair/nail condition to cross referance t
 
 * What field is the company in?
 
-its google so its got a hand in most fields, but for this specific project its medical/eduction.
+Its google so its got a hand in most fields, but for this specific project its medical/eduction.
 
 * What are the other major companies in this field?
 
-webmd
+WebMD
 ## Results
 
 * What has been the business impact of this company so far?
@@ -38,7 +39,7 @@ There aren't many as they are still in testing.
 
 * How is your company performing relative to competitors in the same field?
 
-while they are still in development dermatologist's are still vastly more effective.
+While they are still in development dermatologist's are still vastly more effective.
 
 ## Recommendations
 
@@ -48,11 +49,11 @@ Make testing avalible in the USA
 
 * Why do you think that offering this product or service would benefit the company?
     
-it would diversify their ai database
+It would diversify their ai database
 
 * What technologies would this additional product or service utilize?
 
  ~political bribes using wire transfers~.
 * Why are these technologies appropriate for your solution?
 
-the main reason testing isnt approved for the USA is because the FDA hasnt appoved it yet as its classifed as a class 1 medical device.
+The main reason testing isnt approved for the USA is because the FDA hasnt appoved it yet as its classifed as a class 1 medical device.
