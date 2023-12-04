@@ -20,7 +20,6 @@ People with skin, hair and nail problems
 
 DermAssist use photo of the user's skin/hair/nail condition to cross referance their condition through their AI database.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape
 
@@ -54,6 +53,7 @@ It would diversify their ai database
 * What technologies would this additional product or service utilize?
 
  ~political bribes using wire transfers~.
+
 * Why are these technologies appropriate for your solution?
 
 The main reason testing isnt approved for the USA is because the FDA hasnt appoved it yet as its classifed as a class 1 medical device.
