@@ -57,3 +57,7 @@ It would diversify their ai database
 * Why are these technologies appropriate for your solution?
 
 The main reason testing isnt approved for the USA is because the FDA hasnt appoved it yet as its classifed as a class 1 medical device.
+
+* sources:
+
+https://health.google/consumers/dermassist/
