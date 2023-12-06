@@ -29,7 +29,7 @@ Its google so its got a hand in most fields, but for this specific project its m
 
 * What are the other major companies in this field?
 
-WebMD
+Miiskin
 ## Results
 
 * What has been the business impact of this company so far?
